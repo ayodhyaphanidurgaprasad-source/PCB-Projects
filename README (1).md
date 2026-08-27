@@ -16,7 +16,7 @@
 
 <div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-<h2 style = "color:#333;"> Student Details </h2>
+<h2 style = "color:#333;"> A Phani Durga Prasad </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> <!--- Add your name---> </p>
     <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
