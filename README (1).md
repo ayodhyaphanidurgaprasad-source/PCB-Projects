@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> student details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!-A Phani Durga Prasad---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> <!-a Phani durga prasad---> </p>
+    <p><strong>Email ID:</strong> <!--- phanig6pcb@gmail.com ---> </p>
+    <p><strong>College Name:</strong> <!--- JNTUK clg of engineering---> </p>
+    <p><strong>Branch/Specialization :</strong> <!--- Electronics And Communication Engineering---> </p>
+    <p><strong>College ID:</strong> <!--- 22nh1a0403---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
