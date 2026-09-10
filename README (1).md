@@ -18,41 +18,41 @@
 
 <h2 style = "color:#333;"> student details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!-a Phani durga prasad---> </p>
-    <p><strong>Email ID:</strong> <!--- phanig6pcb@gmail.com ---> </p>
-    <p><strong>College Name:</strong> <!--- JNTUK clg of engineering---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Electronics And Communication Engineering---> </p>
-    <p><strong>College ID:</strong> <!--- 22nh1a0403---> </p>
+    <p><strong>Name:</strong> A Phani durga prasad 
+    <p><strong>Email ID:</strong> phanig6pcb@gmail.com  
+    <p><strong>College Name:</strong> JNTUK clg of engineering 
+    <p><strong>Branch/Specialization :</strong>  Electronics And Communication Engineering
+    <p><strong>College ID:</strong> VVGV 
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong>  pcb designing </p>
+    <p><strong>Instructor Name:</strong>paramaesh kumar </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> paramesh kumar</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> Hardware design engineer</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
-- [Course Learning](#course-learning-to-be-edited-by-student)
-- [Projects Completed](#projects-completed)
-- [Project Introduction](#project-introduction)
-- [Technologies Used](#technologies-used)
-- [Roles and Responsibilities](#roles-and-responsibilities)
-- [Project Report](#project-report)
+- [Course Learning](pcb desgining)
+- [Projects Completed](USB To Ethercat Adapter Board )
+- [Project Introduction](USB To Ethercat Adapter Board desgined 2 layer pcb )
+- [Technologies Used](kicard tool)
+- [Roles and Responsibilities](schmatic design,footprint selection,placement,routing)
+- [Project Report] https://drive.google.com/file/d/1WjPeQ4_ROtsQY1Z5-Qa-9GvYlF8fYWXm/view?usp=sharing
 - [Learnings from LST & SST](#learnings-from-lst--sst)
 - [Community Services](#community-services)
 - [Certificate](#certificate)
