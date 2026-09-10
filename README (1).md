@@ -60,7 +60,8 @@ SST – Soft Skills Training
 Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.)
 - [Community Services](plant trees, serve senior citizens, blood donation
 - [Certificate](#certificate)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](sincerely thank SURE Trust  for providing me with the opportunity to complete my internship in PCB Designing.
+I am grateful to my trainers and mentors for their valuable guidance and support throughout the internship. I also thank the LST and SST trainers for helping me improve my life skills, communication, confidence, and professional skills.)
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
