@@ -68,11 +68,15 @@ I am grateful to my trainers and mentors for their valuable guidance and support
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
-
+> Through this project and my PCB Design internship, I gained 
+practical knowledge of the complete PCB design process using KiCad 
+I learned how to understand circuit requirements and develop a 
+schematic by placing electronic components and creating the 
+required electrical connections.   
+I learned how to select suitable components and assign appropriate 
+PCB footprints based on their package types and pin configurations. 
+I also gained practical experience in transferring the schematic to the 
+PCB Editor and developing a two-layer PCB layout.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
