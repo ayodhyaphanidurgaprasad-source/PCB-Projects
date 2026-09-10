@@ -53,8 +53,12 @@
 - [Technologies Used](kicard tool)
 - [Roles and Responsibilities](schmatic design,footprint selection,placement,routing)
 - [Project Report] https://drive.google.com/file/d/1WjPeQ4_ROtsQY1Z5-Qa-9GvYlF8fYWXm/view?usp=sharing
-- [Learnings from LST & SST](#learnings-from-lst--sst)
-- [Community Services](#community-services)
+- [Learnings from LST & SST]( 
+LST – Life Skills Training
+Through LST sessions, I improved my self-confidence, time management, problem-solving, decision-making, teamwork, and positive attitude. These sessions helped me handle challenges and become more responsible in my professional life.
+SST – Soft Skills Training
+Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.)
+- [Community Services](plant trees, serve senior citizens, blood donation
 - [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
 
