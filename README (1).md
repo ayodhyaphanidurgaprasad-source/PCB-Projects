@@ -91,7 +91,7 @@ PCB Editor and developing a two-layer PCB layout.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://drive.google.com/file/d/1WjPeQ4_ROtsQY1Z5-Qa-9GvYlF8fYWXm/view?usp=sharing" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
