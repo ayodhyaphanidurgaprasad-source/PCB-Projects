@@ -118,21 +118,12 @@ Through SST sessions, I improved my communication skills, English speaking, pres
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship, I participated in community service activities that helped me develop social responsibility, teamwork, and a willingness to support others.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
+- **Tree Plantation Drive** – Participated in tree planting and contributed to environmental awareness.
+- **Helping Elderly Citizens** – Assisted elderly people with simple daily activities.
 
 ### **Impact / Contribution**
 
