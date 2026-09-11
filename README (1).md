@@ -94,34 +94,18 @@ PCB Editor and developing a two-layer PCB layout.
   <a href="https://drive.google.com/file/d/1WjPeQ4_ROtsQY1Z5-Qa-9GvYlF8fYWXm/view?usp=sharing" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Wikipedia]## 
+
+- [KiCad Documentation](https://docs.kicad.org/)
+- [EtherCAT Technology Group](https://www.ethercat.org/)
+- [USB Implementers Forum](https://www.usb.org/)
+- Datasheets and application notes of the electronic components used in the project.
 
 
 ## **Learnings from LST and SST**
