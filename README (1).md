@@ -47,21 +47,16 @@
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
-- [Course Learning](pcb desgining)
-- [Projects Completed](USB To Ethercat Adapter Board )
-- [Project Introduction](USB To Ethercat Adapter Board desgined 2 layer pcb )
-- [Technologies Used](kicard tool)
-- [Roles and Responsibilities](schmatic design,footprint selection,placement,routing)
-- [Project Report] https://drive.google.com/file/d/1WjPeQ4_ROtsQY1Z5-Qa-9GvYlF8fYWXm/view?usp=sharing
-- [Learnings from LST & SST]( 
-LST – Life Skills Training
-Through LST sessions, I improved my self-confidence, time management, problem-solving, decision-making, teamwork, and positive attitude. These sessions helped me handle challenges and become more responsible in my professional life.
-SST – Soft Skills Training
-Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.)
-- [Community Services](plant trees, serve senior citizens, blood donation
+- [Course Learning]( )
+- [Projects Completed]( )
+- [Project Introduction]()
+- [Technologies Used]()
+- [Roles and Responsibilities]()
+- [Project Report] 
+- [Learnings from LST & SST]
+- [Community Services]
 - [Certificate](#certificate)
-- [Acknowledgments](sincerely thank SURE Trust  for providing me with the opportunity to complete my internship in PCB Designing.
-I am grateful to my trainers and mentors for their valuable guidance and support throughout the internship. I also thank the LST and SST trainers for helping me improve my life skills, communication, confidence, and professional skills.)
+- [Acknowledgments]()
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -81,18 +76,16 @@ PCB Editor and developing a two-layer PCB layout.
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!USB TO ETHERCAT ADAPTER BOARD --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1:USB TO ETHERCAT ADAPTER BOARD</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
@@ -133,9 +126,10 @@ PCB Editor and developing a two-layer PCB layout.
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+LST – Life Skills Training
+Through LST sessions, I improved my self-confidence, time management, problem-solving, decision-making, teamwork, and positive attitude. These sessions helped me handle challenges and become more responsible in my professional life.
+SST – Soft Skills Training
+Through SST sessions, I improved my communication skills, English speaking, presentation skills, interpersonal skills, active listening, and interview skills. These sessions helped me communicate more confidently in the workplace.)
 ---
 
 ## **Community Services**
@@ -192,7 +186,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+sincerely thank SURE Trust  for providing me with the opportunity to complete my internship in PCB Designing.
+I am grateful to my trainers and mentors for their valuable guidance and support throughout the internship. I also thank the LST and SST trainers for helping me improve my life skills, communication, confidence, and professional skills.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
